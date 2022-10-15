@@ -416,3 +416,24 @@ header section .cards .dis{
         width: 200px;
     }
 }
+
+@media screen and (max-width: 375px){
+    header section .content h1 {
+        font-size: 22px;
+    }
+    header section .content p {
+        font-size: 9px;
+        width: 220px;
+    }
+   
+    header .logo {
+        width: 150px;
+    }
+    header .logo {
+        width: 150px;
+        height: 300px;
+    }
+    header .logo img {
+        width: 200px;
+    }
+}
